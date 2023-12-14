@@ -1,9 +1,9 @@
 {
-  "scripts": {
-    "demo": "node index.js"
-  },
-  "dependencies": {
-    "cookie-parser": "^1.4.3",
-    "express": "^4.14.0"
-  }
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "cookie-parser": "^1.4.3",
+        "express": "^4.14.0"
+    }
 }
